@@ -1,0 +1,12 @@
+[package]
+version = "0.1.0"
+name = "train-game"
+authors = ["maygoo <maygoo@users.noreply.github.com>"]
+categories = ["category"]
+license = "MIT"
+readme = "./README.md"
+edition = "2018"
+
+[dependencies]
+leptos = { version = "0.5.6", features = ["csr"] }
+
