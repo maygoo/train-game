@@ -1,0 +1,1 @@
+[![Github Pages](https://github.com/maygoo/train-game/actions/workflows/pages.yml/badge.svg)](https://github.com/maygoo/train-game/actions/workflows/pages.yml)
